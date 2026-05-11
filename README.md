@@ -17,6 +17,8 @@ I managed the full data lifecycle for this project, from tracking design to fina
     * *Visualizing user engagement, popular ingredients, and conversion rates.*
 * **[Data Tracking Plan (Google Docs/PDF)](./Data_Tracking_Plan_V2.pdf)** 
     * *A comprehensive map of events (searches, recipe views, filter usage) and properties.*
+* **[Data Analysis Report](./Data_Analysis_Cocktail_Recipes_MVP.pdf)**
+    * *SQL-based deep dive into user behavior and conversion funnels.*
 * **[ERD Diagram (Database Architecture)](https://app.diagrams.net/#G1ZqppQEp4GzWQ11vV4R7ud49Bkc4qsN4Z#%7B%22pageId%22%3A%22wPyHmocQBKc_03tS0bf6%22%7D)** 
     * *The structural backbone of the application's data.*
 
@@ -35,10 +37,7 @@ I managed the full data lifecycle for this project, from tracking design to fina
 * Analyzed user search patterns to identify missing recipes in the database.
 * Discovered how users interact with specific tools, like the servings calculator leading to a recommendation to move this feature to the top of the UI.
 
----
 
-## Project Structure
-* `/analytics` - Contains the Data Tracking Plan and Analysis reports.
 
 ---
 
