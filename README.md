@@ -15,7 +15,7 @@ I managed the full data lifecycle for this project, from tracking design to fina
 
 * **[Interactive Dashboard (Tableau)](https://public.tableau.com/app/profile/natalia.sus/viz/Cocktail_17758439238000/SearchUserBehavior?publish=yes)** 
     * *Visualizing user engagement, popular ingredients, and conversion rates.*
-* **[Data Tracking Plan (Google Docs/PDF)](./Data Tracking Plan (Cocktail Recipes MVP) — V2.pdf)** 
+* **[Data Tracking Plan (Google Docs/PDF)](./Data_Tracking_Plan_V2.pdf)** 
     * *A comprehensive map of events (searches, recipe views, filter usage) and properties.*
 * **[ERD Diagram (Database Architecture)](https://app.diagrams.net/#G1ZqppQEp4GzWQ11vV4R7ud49Bkc4qsN4Z#%7B%22pageId%22%3A%22wPyHmocQBKc_03tS0bf6%22%7D)** 
     * *The structural backbone of the application's data.*
