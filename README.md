@@ -5,7 +5,7 @@ A collaborative cocktail recipe platform with a full data tracking plan and prod
 ## Overview
 This repository contains the data infrastructure and product analytics framework for a **Cocktail Recipes MVP**. The goal of the project was to build a functional website while implementing a basement for a robust data tracking strategy to understand user behavior and optimize the content funnel.
 
-## 🚀 Live Demo
+## Live Demo
 You can explore the functional MVP here: **[Drinkly Web App](https://drinkly.onrender.com/#/)** 🍸
 ---
 
@@ -13,11 +13,11 @@ You can explore the functional MVP here: **[Drinkly Web App](https://drinkly.onr
 
 I managed the full data lifecycle for this project, from tracking design to final visualization:
 
-* **[Interactive Dashboard (Tableau)](https://public.tableau.com/app/profile/natalia.sus/viz/Cocktail_17758439238000/SearchUserBehavior?publish=yes)** 📊
+* **[Interactive Dashboard (Tableau)](https://public.tableau.com/app/profile/natalia.sus/viz/Cocktail_17758439238000/SearchUserBehavior?publish=yes)** 
     * *Visualizing user engagement, popular ingredients, and conversion rates.*
-* **[Data Tracking Plan (Google Docs/PDF)](Data Tracking Plan (Cocktail Recipes MVP) — V2.pdf)** 📝
+* **[Data Tracking Plan (Google Docs/PDF)](./Data Tracking Plan (Cocktail Recipes MVP) — V2.pdf)** 
     * *A comprehensive map of events (searches, recipe views, filter usage) and properties.*
-* **[ERD Diagram (Database Architecture)](https://app.diagrams.net/#G1ZqppQEp4GzWQ11vV4R7ud49Bkc4qsN4Z#%7B%22pageId%22%3A%22wPyHmocQBKc_03tS0bf6%22%7D)** 🏗️
+* **[ERD Diagram (Database Architecture)](https://app.diagrams.net/#G1ZqppQEp4GzWQ11vV4R7ud49Bkc4qsN4Z#%7B%22pageId%22%3A%22wPyHmocQBKc_03tS0bf6%22%7D)** 
     * *The structural backbone of the application's data.*
 
 ---
